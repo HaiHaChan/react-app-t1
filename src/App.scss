@@ -22,6 +22,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
+  .select-box {
+    margin-bottom: 3rem;
+  }
+
+  .form-input {
+    display: flex;
+  }
 }
 
 .App-link {
