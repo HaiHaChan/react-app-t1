@@ -29,6 +29,10 @@
 
   .form-input {
     display: flex;
+    fieldset {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
   }
 }
 
