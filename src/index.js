@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import * as serviceWorker from './serviceWorker';
-// import App from './App';
-import App from './components/Calculator';
+import App from './App';
 
 function tick() {
     ReactDOM.render(<App />, document.getElementById('root'));
